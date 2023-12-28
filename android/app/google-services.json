@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "411382108281",
+    "project_id": "tutter-a99e1",
+    "storage_bucket": "tutter-a99e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411382108281:android:7ccd6e59364b749acc44a8",
+        "android_client_info": {
+          "package_name": "com.example.butter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411382108281-j0d30k8cr04937496fc69coikmspook5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDlNCSBsUQs1p3xj4t6p50pRMxebUDaa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411382108281-j0d30k8cr04937496fc69coikmspook5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "411382108281-9r9rqatk9qg0tbp6mkmn5sv24qu8ni97.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tutter.onw.tutter"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411382108281:android:9a148052e3e53edecc44a8",
+        "android_client_info": {
+          "package_name": "com.example.memoiree.memoiree"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411382108281-j0d30k8cr04937496fc69coikmspook5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDlNCSBsUQs1p3xj4t6p50pRMxebUDaa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411382108281-j0d30k8cr04937496fc69coikmspook5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "411382108281-9r9rqatk9qg0tbp6mkmn5sv24qu8ni97.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tutter.onw.tutter"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411382108281:android:95e498ac107f491dcc44a8",
+        "android_client_info": {
+          "package_name": "com.tutter.onw.tutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411382108281-j0d30k8cr04937496fc69coikmspook5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDlNCSBsUQs1p3xj4t6p50pRMxebUDaa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411382108281-j0d30k8cr04937496fc69coikmspook5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "411382108281-9r9rqatk9qg0tbp6mkmn5sv24qu8ni97.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tutter.onw.tutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
